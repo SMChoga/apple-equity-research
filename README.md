@@ -42,7 +42,6 @@ The report and supporting workbooks are organized below. Excel models can be dow
 | [DCF Valuation Model (Excel)](02_Valuation_Models/Apple_DCF.xlsx) | Cash-flow forecasts, intrinsic valuation and sensitivity analysis |
 | [Trading Comparables (Excel)](02_Valuation_Models/aApple%20Trading%20Comps.xlsx) | Comparable-company valuation multiples and peer benchmarking |
 | [Financial Analysis (Excel)](03_Financial_Analysis/Apple_Financial_Analysis.xlsx) | Financial performance and ratios |
-| [Four Financial Analyses (Excel)](03_Financial_Analysis/Apple_Four_Financial_Analyses.xlsx) | Vertical, horizontal, common-size and index analyses |
 | [Fundamental Analysis (Excel)](04_Fundamental_Analysis/Apple_Fundamentals.xlsx) | Revenue mix and operating fundamentals |
 | [Smartphone Industry (Excel)](05_Industry_Analysis/Apple_Smartphone_Industry.xlsx) | Smartphone market and competition |
 | [Laptop Industry (Excel)](05_Industry_Analysis/Apple_Laptop_Industry.xlsx) | PC shipments and industry trends |

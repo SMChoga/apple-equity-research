@@ -38,7 +38,8 @@ The report and supporting workbooks are organized below. Excel models can be dow
 
 | Research Deliverable | Description |
 |---|---|
-| [Equity Research Report (Word)](01_Equity_Research_Report/Apple_Equity_Research.docx) | Complete investment thesis and conditional HOLD recommendation |
+| [Equity Research Report (PDF — latest)](01_Equity_Research_Report/Apple_Equity_Research.pdf) | Final published investment thesis and conditional HOLD recommendation |
+| [Equity Research Report (Word)](01_Equity_Research_Report/Apple_Equity_Research.docx) | Earlier editable Word version |
 | [DCF Valuation Model (Excel)](02_Valuation_Models/Apple_DCF.xlsx) | Cash-flow forecasts, intrinsic valuation and sensitivity analysis |
 | [Trading Comparables (Excel)](02_Valuation_Models/aApple%20Trading%20Comps.xlsx) | Comparable-company valuation multiples and peer benchmarking |
 | [Financial Analysis (Excel)](03_Financial_Analysis/Apple_Financial_Analysis.xlsx) | Financial performance and ratios |
